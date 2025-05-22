@@ -47,6 +47,7 @@
         <resource-file src="res/android/values-pl" target="res/values-pl" />
         <resource-file src="res/android/values-bg" target="res/values-bg" />
         <resource-file src="res/android/values-fr" target="res/values-fr" />
+        <resource-file src="res/android/values-cs" target="res/values-cs" />
         <resource-file src="res/android/values-zh" target="res/values-zh" />
         <resource-file src="res/android/values-zh-rCN" target="res/values-zh-rCN" />
         <resource-file src="res/android/values-zh-rHK" target="res/values-zh-rHK" />
